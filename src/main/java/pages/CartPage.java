@@ -10,7 +10,7 @@ public class CartPage extends BasePage{
     private WebElement cartWindow;
 
 
-    @FindBy(xpath = "//div[@class='cart-receipt__sum-price']/span")
+    @FindBy(xpath = "//div[@class='cart-receipt__sum-price']/span[1]")
     private WebElement price;
 
     public CartPage(WebDriver driver) {
