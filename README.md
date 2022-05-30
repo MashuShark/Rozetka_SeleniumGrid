@@ -14,4 +14,4 @@ Check that item is added to the cart.
 
 
 ### Tools:	testNG, XPath, Selenium WebDriver, SeleniumGrid;
-### Technologies:	Java, PageFactory;
+### Technologies:	Java, maven, PageFactory;
